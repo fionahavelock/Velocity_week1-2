@@ -1,4 +1,4 @@
-# Velocity_SQL_Basics
+# Velocity course content for weeks 1 & 2
 SQL code from week 2 of the Velocity training
 
 ----------------------------------------------
